@@ -26,7 +26,6 @@
 
 - :rocket: **[ralph-parallel](https://github.com/kavanaghpatrick/ralph-parallel)** -- Parallel spec execution plugin for Claude Code.
 - :package: **[ralph-compounder](https://github.com/kavanaghpatrick/ralph-compounder)** -- A Claude Code plugin marketplace with specialized agents, commands, and skills.
-- :email: **[terminalmail](https://github.com/kavanaghpatrick/terminalmail)** -- A terminal email client with AI-powered classification.
 
 ## Finance & Travel
 
