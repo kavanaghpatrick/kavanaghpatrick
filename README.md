@@ -20,7 +20,6 @@
 ## Formal Verification
 
 - :balance_scale: **[us-tax-code-lean](https://github.com/kavanaghpatrick/us-tax-code-lean)** -- The US Internal Revenue Code formalized in Lean 4.
-- :pill: **[aristotle_biochemistry](https://github.com/kavanaghpatrick/aristotle_biochemistry)** -- Formal verification of drug safety using Lean 4 and geometric proofs.
 - :triangular_ruler: **[aristotle-math-problems](https://github.com/kavanaghpatrick/aristotle-math-problems)** -- A harness for attacking open mathematical problems with the Aristotle theorem prover.
 
 ## Developer Tools
@@ -33,7 +32,6 @@
 
 - :airplane: **[rtw-optimizer](https://github.com/kavanaghpatrick/rtw-optimizer)** -- Validator and optimizer for oneworld Explorer round-the-world tickets.
 - :chart_with_upwards_trend: **[etf-research-platform](https://github.com/kavanaghpatrick/etf-research-platform)** -- ETF and stock research with portfolio construction and backtesting.
-- :slot_machine: **[ml-statarb](https://github.com/kavanaghpatrick/ml-statarb)** -- ML statistical arbitrage for leveraged ETF overnight trading.
 - :globe_with_meridians: **[flightbuyer](https://github.com/kavanaghpatrick/flightbuyer)** -- Geographic flight price arbitrage across VPN locations.
 
 ## Consumer & Web
@@ -41,8 +39,6 @@
 - :snowflake: **[snowforecast](https://github.com/kavanaghpatrick/snowforecast)** -- Snowfall forecasts for Western US ski resorts. [**Live**](https://snowforecast.streamlit.app)
 - :house: **[rent-fair-value](https://github.com/kavanaghpatrick/rent-fair-value)** -- Chrome extension showing fair market rent for London property listings.
 - :mag: **[london-rental-scraper](https://github.com/kavanaghpatrick/london-rental-scraper)** -- London rental scraper with price prediction models.
-- :eyeglasses: **[AR Compare](https://github.com/kavanaghpatrick/ar-compare-nextjs)** -- Comparison site for AR and AI glasses. [**Live**](https://ar-compare-nextjs.vercel.app)
-- :tropical_drink: **[DHM Guide](https://github.com/kavanaghpatrick/dhm-guide-beta)** -- Dihydromyricetin research, reviews, and writing. [**Live**](https://dhm-guide-beta.vercel.app)
 
 ## Engineering
 
